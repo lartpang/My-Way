@@ -124,48 +124,16 @@
 * Color Hunt: 漂亮炫酷的配色网站，程序员的福音
 * Heroku: PaaS平台
 
-## 大数据处理/数据分析/分布式工具
+## 机器学习/深度学习
 
-* Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
-* 计算框架
-   + Kylin
-   + Flink
-   + Drill
-   + Spark
-* Zookeeper：可靠的分布式协调的开源项目
-* 数据源获取
-   + Flume、Google Refine、Needlebase、ScraperWiki、BloomReach
-* 序列化技术
-   + JSON
-   + BSON
-   + Thrift
-   + Avro
-   + Google Protocol Buffers
-* 数据库
-   + NoSql：ScyllaDB（宣称是世界上最快的NoSql）、Apache Casandra、MongoDB、Apache CouchDB、Redis、BigTable、HBase、Hypertable、Voldemort、Neo4j
-* 数据处理
-   + R
-* NLP自然语言处理
-   + Natural Language Toolkit
-   + Apache OpenNLP
-   + Boilerpipe
-   + OpenCalais
 * 机器学习框架
    + TensorFlow
    + PyTorch
-* 可视化技术
-   + GraphViz
-   + Processing
-   + Protovis
-   + Google Fusion Tables
-   + Tableau
-   + Highcharts
-   + EChats（百度的还不错）
-   + Raphaël.js
-* 开源的数据分析可视化工具
-   + Weka
-   + Orange
-   + KNIME
+* 仓库
+   + CS229：https://github.com/afshinea/stanford-cs-229-machine-learning
+   + transferlearning：https://github.com/jindongwang/transferlearning
+   + 数据挖掘：https://github.com/lyltj2010/DataMining
+   + saliency：https://github.com/PAIR-code/saliency
 
 # 语言篇
 
