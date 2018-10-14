@@ -175,9 +175,12 @@
 * 待折腾：
     * Julia
     * R
+    * lisp
 
 ## Python
 
 ## Julia
 
 ## R
+
+## lisp
