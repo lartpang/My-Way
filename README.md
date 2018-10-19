@@ -135,6 +135,7 @@
    + 数据挖掘：https://github.com/lyltj2010/DataMining
    + saliency：https://github.com/PAIR-code/saliency
    + 机器学习：https://github.com/allmachinelearning/MachineLearning
+   + 论文翻译: https://github.com/SnailTyan/deep-learning-papers-translation
 
 # 语言篇
 
