@@ -1,6 +1,6 @@
 ## 机器学习/深度学习
 
-<detials>
+<details>
     
 <summary> 重要仓库 </summary>
 
