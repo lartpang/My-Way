@@ -1,16 +1,8 @@
 ## 机器学习/深度学习
 
-* 论文
-
-   + FCN：https://arxiv.org/pdf/1411.4038
-   + OverFeat：
-   + AlexNet：
-   + NiN：
-   + GoogLeNet：
-   + ResNet
-   + 。。。
-
-* 仓库
+<detials>
+    
+<summary> 重要仓库 </summary>
 
    + CS229：https://github.com/afshinea/stanford-cs-229-machine-learning
    + transferlearning：https://github.com/jindongwang/transferlearning
@@ -21,10 +13,26 @@
    + 综述论文: https://github.com/mlreview/machine-learning-surveys
    + tensorflow教程：https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow
    + 深度学习500问：https://github.com/scutan90/DeepLearning-500-questions
+   
+</details>
 
 ## 常用工具
 
-* 编辑器：
+<details>
+
+<summary> Editor </summary>
 
    + SublimeText
    + Vim
+   
+</details>
+
+
+<details>
+
+<summary> IDE </summary>
+
+   + pycharm
+   + wingide
+   
+</details>
