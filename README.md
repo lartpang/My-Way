@@ -1,6 +1,7 @@
 ## 机器学习/深度学习
 
 * 论文
+<details>
    + FCN：https://arxiv.org/pdf/1411.4038
    + OverFeat：
    + AlexNet：
@@ -8,7 +9,7 @@
    + GoogLeNet：
    + ResNet
    + 。。。
-
+</detials>
 * 仓库
    + CS229：https://github.com/afshinea/stanford-cs-229-machine-learning
    + transferlearning：https://github.com/jindongwang/transferlearning
