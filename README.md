@@ -9,6 +9,7 @@
 + 综述论文: https://github.com/mlreview/machine-learning-surveys
 + tensorflow教程：https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow
 + 深度学习500问：https://github.com/scutan90/DeepLearning-500-questions
++ 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）:https://github.com/amusi/Deep-Learning-Interview-Book
 
 ## 行人重识别（ReID）相关资料
 
