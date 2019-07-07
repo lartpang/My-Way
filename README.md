@@ -20,6 +20,10 @@
 
 ## 常用工具
 
+### PyTorch
+
++ 统计模型运算量和参数量的pytorch-OpCounter：https://github.com/Lyken17/pytorch-OpCounter
+
 ### Editor
 
 + SublimeText：本身没啥问题，而且随着版本的更新，原本在linux上的各种问题基本上也被解决，但是有个关键的问题，在使用GPU跑代码的时候，ST会特别卡顿，只好舍弃，转投VSCode了
