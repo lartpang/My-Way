@@ -22,6 +22,9 @@
 
 + 让机器“一叶知秋”：弱监督视觉语义分割：https://zhuanlan.zhihu.com/p/37488849
 + 介绍了CVPR19的一篇使用蒸馏处理语义分割的论文：https://segmentfault.com/a/1190000018493751
++ 半监督深度学习小节：https://zhuanlan.zhihu.com/p/33196506
+   + https://github.com/iBelieveCJM/pseudo_label-pytorch
++ 半监督深度学习又小结之Consistency Regularization：https://zhuanlan.zhihu.com/p/46893709
 
 ## 常用工具
 
