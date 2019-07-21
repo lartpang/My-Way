@@ -25,6 +25,7 @@
 + 半监督深度学习小节：https://zhuanlan.zhihu.com/p/33196506
    + https://github.com/iBelieveCJM/pseudo_label-pytorch
 + 半监督深度学习又小结之Consistency Regularization：https://zhuanlan.zhihu.com/p/46893709
++ Attention算法调研(弱监督语义分割)：https://zhuanlan.zhihu.com/p/53218967
 
 ## 常用工具
 
