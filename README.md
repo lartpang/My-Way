@@ -45,3 +45,10 @@
 
 + PyCharm：写Python必备，前提是电脑配置不要太拖后腿，时常卡顿，但是功能强大又贴心，实在无法替代
 + wingide：流畅是流畅，但是一来要激活，二来在我的Ubuntu上无法输入中文，而且创建项目的诡异流程让我怀疑这玩意是怎么想的:(，弃之
+
+## 基础书籍
+
+### 线性代数
+
++ Matrix Analysis and Applied Linear Algebra：http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446085870-145420.pdf
+   + https://book.douban.com/subject/1479316/
