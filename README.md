@@ -52,3 +52,5 @@
 
 + Matrix Analysis and Applied Linear Algebra：http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446085870-145420.pdf
    + https://book.douban.com/subject/1479316/
++ Introduction to Linear Algebra（4th）：http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf
+   + https://book.douban.com/subject/3582335/
