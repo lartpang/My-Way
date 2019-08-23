@@ -46,6 +46,13 @@
 + PyCharm：写Python必备，前提是电脑配置不要太拖后腿，时常卡顿，但是功能强大又贴心，实在无法替代
 + wingide：流畅是流畅，但是一来要激活，二来在我的Ubuntu上无法输入中文，而且创建项目的诡异流程让我怀疑这玩意是怎么想的:(，弃之
 
+### Linux
+
++ ubuntu16.04安装NIVIDIA显卡驱动，cuda8.0，cuDNN6.0以及基于Anaconda安装Tensorflow-GPU：https://blog.csdn.net/pursuit_zhangyu/article/details/79362128
++ 【解决】Ubuntu安装NVIDIA驱动(咨询NVIDIA工程师的解决方案)：https://blog.csdn.net/u012759136/article/details/53355781#commentBox
++ [专业亲测]Ubuntu16.04安装Nvidia显卡驱动（cuda）--解决你的所有困惑：https://blog.csdn.net/ghw15221836342/article/details/79571559
++ 最全面解析 Ubuntu 16.04 安装nvidia驱动 以及各种错误：https://blog.csdn.net/u014561933/article/details/79958017
+
 ## 基础书籍
 
 ### 线性代数
