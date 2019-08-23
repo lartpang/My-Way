@@ -52,6 +52,7 @@
 + 【解决】Ubuntu安装NVIDIA驱动(咨询NVIDIA工程师的解决方案)：https://blog.csdn.net/u012759136/article/details/53355781#commentBox
 + [专业亲测]Ubuntu16.04安装Nvidia显卡驱动（cuda）--解决你的所有困惑：https://blog.csdn.net/ghw15221836342/article/details/79571559
 + 最全面解析 Ubuntu 16.04 安装nvidia驱动 以及各种错误：https://blog.csdn.net/u014561933/article/details/79958017
++ ubuntu安装nvidia显卡驱动:https://blog.csdn.net/acelove40/article/details/69257574
 
 ## 基础书籍
 
