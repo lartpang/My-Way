@@ -34,6 +34,7 @@
 ### PyTorch
 
 + 统计模型运算量和参数量的pytorch-OpCounter：https://github.com/Lyken17/pytorch-OpCounter
+* 一些PyTorch的技巧，但是似乎有些旧了：https://github.com/kevinzakka/pytorch-goodies
 
 ### Editor
 
