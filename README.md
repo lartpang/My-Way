@@ -12,6 +12,7 @@
 + 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）:https://github.com/amusi/Deep-Learning-Interview-Book
 + zouxy09博客原创性博文导航：https://blog.csdn.net/zouxy09/article/details/14222605
 + L1和L2范数：http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
++ DeepLearning ON GPU：https://deeplearningongpu.readthedocs.io/en/latest/
 
 ## 行人重识别（ReID）相关资料
 
