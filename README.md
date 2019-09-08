@@ -42,7 +42,8 @@
 ### PyTorch
 
 + 统计模型运算量和参数量的pytorch-OpCounter：https://github.com/Lyken17/pytorch-OpCounter
-* 一些PyTorch的技巧，但是似乎有些旧了：https://github.com/kevinzakka/pytorch-goodies
++ 一些PyTorch的技巧，但是似乎有些旧了：https://github.com/kevinzakka/pytorch-goodies
++ PyTorch Autograd：Understanding the heart of PyTorch’s magic：https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95
 
 ### Editor
 
