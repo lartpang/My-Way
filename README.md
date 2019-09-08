@@ -20,6 +20,7 @@
     - How to visualize convolutional features in 40 lines of code：https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
         + 中文翻译：https://www.jishuwen.com/d/2Lik
     - 【深度学习系列】CNN模型的可视化：https://www.cnblogs.com/charlotte77/p/8343700.html
++ ML Records in 1110 Lab of BUPT：https://github.com/wmn7/ML_Practice
 
 ## 行人重识别（ReID）相关资料
 
