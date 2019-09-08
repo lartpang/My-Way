@@ -13,6 +13,13 @@
 + zouxy09博客原创性博文导航：https://blog.csdn.net/zouxy09/article/details/14222605
 + L1和L2范数：http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
 + DeepLearning ON GPU：https://deeplearningongpu.readthedocs.io/en/latest/
++ CNN可视化：
+    - Ways for Visualizing Convolutional Networks：https://buptldy.github.io/2016/09/25/2016-09-25-cnn_vis/
+    - CNN-Visualization：https://github.com/scutan90/CNN-Visualization
+    - 谷歌的新CNN特征可视化方法，构造出一个华丽繁复的新世界：https://www.leiphone.com/news/201711/aNw8ZjqMuqvygzlz.html
+    - How to visualize convolutional features in 40 lines of code：https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
+        + 中文翻译：https://www.jishuwen.com/d/2Lik
+    - 【深度学习系列】CNN模型的可视化：https://www.cnblogs.com/charlotte77/p/8343700.html
 
 ## 行人重识别（ReID）相关资料
 
