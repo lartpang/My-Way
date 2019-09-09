@@ -1,3 +1,12 @@
+## 声明
+
+由于几篇文章写的内容对于本人而言非常有用，但是为了防止原作“消失”的情况，这里将其进行了打印，保存成了pdf，如果原作者觉得不妥，请联系我，我会删除。保护版权，人人有责！
+
+* 半小时学会 PyTorch Hook - 尹相楠的文章 - 知乎：https://zhuanlan.zhihu.com/p/75054200
+* 14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS：https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/
+* 移动平均：你知道的与你不知道的 - 石川的文章 - 知乎：https://zhuanlan.zhihu.com/p/38276041
+
+
 ## 机器学习/深度学习基础
 
 + CS229：https://github.com/afshinea/stanford-cs-229-machine-learning
