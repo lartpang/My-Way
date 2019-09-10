@@ -30,6 +30,7 @@
         + 中文翻译：https://www.jishuwen.com/d/2Lik
     - 【深度学习系列】CNN模型的可视化：https://www.cnblogs.com/charlotte77/p/8343700.html
 + ML Records in 1110 Lab of BUPT：https://github.com/wmn7/ML_Practice
++ 各种计算机领域资料的合集：https://github.com/ty4z2008/Qix
 
 ## 行人重识别（ReID）相关资料
 
