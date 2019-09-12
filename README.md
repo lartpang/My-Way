@@ -32,6 +32,7 @@
 + ML Records in 1110 Lab of BUPT：https://github.com/wmn7/ML_Practice
 + 各种计算机领域资料的合集：https://github.com/ty4z2008/Qix
 * 如何理解深度学习分布式训练中的large batch size与learning rate的关系？ - 谭旭的回答 - 知乎：https://www.zhihu.com/question/64134994/answer/216895968
++ 想要算一算Wasserstein距离？这里有一份PyTorch实战：https://www.jiqizhixin.com/articles/19031102
 
 ## 行人重识别（ReID）相关资料
 
