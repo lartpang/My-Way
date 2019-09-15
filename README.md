@@ -60,6 +60,9 @@
 - 一款特征可视化工具：https://github.com/MisaOgura/flashtorch
 + 高级封装：
     - https://github.com/blue-season/pywarm
++ 训练提速：
+    - 简单两步加速PyTorch里的Dataloader - 巽二的文章 - 知乎：https://zhuanlan.zhihu.com/p/68191407
+    - 给训练踩踩油门——Pytorch加速数据读取 - MrTian的文章 - 知乎：https://zhuanlan.zhihu.com/p/80695364
 
 ### Editor
 
