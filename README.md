@@ -50,6 +50,14 @@
 + 半监督深度学习又小结之Consistency Regularization：https://zhuanlan.zhihu.com/p/46893709
 + Attention算法调研(弱监督语义分割)：https://zhuanlan.zhihu.com/p/53218967
 
+## 多任务学习
+
++ 多任务学习Multi-task Learning(MTL)概述：https://blog.csdn.net/zaf0516/article/details/90380732
++ 一片综述：https://arxiv.org/pdf/1706.05098.pdf
++ 多任务学习（Multi-Task Learning, MTL）：https://blog.csdn.net/laolu1573/article/details/78205180#
++ 多任务深度学习的三个经验教训：https://www.leiphone.com/news/201902/SlFB1OlWd6U8ubJj.html
++ Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics：https://arxiv.org/pdf/1705.07115.pdf
+
 ## 常用工具
 
 ### PyTorch
