@@ -95,6 +95,10 @@
 + ubuntu安装nvidia显卡驱动:https://blog.csdn.net/acelove40/article/details/69257574
 + Ubuntu 15.10 使用 Xorg.conf 修改分辨率：https://segmentfault.com/a/1190000004510095
 
+### 字体
+
+* 中英文兼顾的编程字体：https://github.com/be5invis/Sarasa-Gothic
+
 ## 基础书籍
 
 ### 线性代数
