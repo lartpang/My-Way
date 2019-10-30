@@ -1,11 +1,17 @@
 ## 声明
 
-由于几篇文章写的内容对于本人而言非常有用，但是为了防止原作“消失”的情况，这里将其进行了打印，保存成了pdf，如果原作者觉得不妥，请联系我，我会删除。保护版权，人人有责！
+由于几篇文章写的内容对于本人而言非常有用，但是为了防止原作“消失”的情况，这里将其进行了打印，保存成了pdf，存放在这里的`GoodArticle`文件夹中，如果原作者觉得不妥，请联系我，我会删除。保护版权，人人有责！
 
-* 半小时学会 PyTorch Hook - 尹相楠的文章 - 知乎：https://zhuanlan.zhihu.com/p/75054200
-* 14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS：https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/
-* 移动平均：你知道的与你不知道的 - 石川的文章 - 知乎：https://zhuanlan.zhihu.com/p/38276041
-
+* 书籍
+    * 迁移学习小册子-王晋东: https://zhuanlan.zhihu.com/p/35352154
+    * Bilateral Filtering: Theory and Applications: https://www.researchgate.net/publication/220427978_Bilateral_Filtering_Theory_and_Applications
+* 文章
+    * 半小时学会 PyTorch Hook - 尹相楠的文章 - 知乎：https://zhuanlan.zhihu.com/p/75054200
+    * 14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS：https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/
+    * 移动平均：你知道的与你不知道的 - 石川的文章 - 知乎：https://zhuanlan.zhihu.com/p/38276041
+    * A Comprehensive Introduction to Different Types of Convolutions in Deep Learning: https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
+    * einsum满足你一切需要：深度学习中的爱因斯坦求和约定 - 知乎: https://zhuanlan.zhihu.com/p/44954540
+    * 从SGD到NadaMax，十种优化算法原理及实现 - 知乎: https://zhuanlan.zhihu.com/p/81020717
 
 ## 机器学习/深度学习基础
 
