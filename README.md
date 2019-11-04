@@ -70,6 +70,10 @@
 
 ## 常用工具
 
+### Python
+
++ 将程序转化为命令行接口：https://github.com/google/python-fire
+
 ### PyTorch
 
 + 统计模型运算量和参数量的pytorch-OpCounter：https://github.com/Lyken17/pytorch-OpCounter
