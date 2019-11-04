@@ -135,3 +135,4 @@
 ## 操作系统
 
 * windows的下载镜像链接藏得好深，速度可真慢，根本不给你下载的机会啊，隔壁`I Tell You`都是用`ed2k`链接，好用的工具也只有迅雷，但迅雷（~~浏览器？！！~~)又不好好做下载，不让人喜欢，现在对于一般的下载感觉也限速了的样子，Windows重装的梦想看来难以实现了：https://www.microsoft.com/zh-cn/software-download/windows10ISO
+* 不要手动下载镜像，可以使用前面页面中提供的安装介质自动下载镜像，速度又快～：https://zhuanlan.zhihu.com/p/78326370
