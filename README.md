@@ -108,6 +108,7 @@
 ### 字体
 
 * 中英文兼顾的编程字体：https://github.com/be5invis/Sarasa-Gothic
+* 非常棒的英文编程字体（要不是因为不支持中文，我就用这个了，这个字体偏宽一些）：https://github.com/tonsky/FiraCode
 
 ## 基础书籍
 
