@@ -94,6 +94,7 @@
 + SublimeText：本身没啥问题，而且随着版本的更新，原本在linux上的各种问题基本上也被解决，但是有个关键的问题，在使用GPU跑代码的时候，ST会特别卡顿，只好舍弃，转投VSCode了
 + VSCode：微软的产品，还不错，性能问题逐渐得到优化，是肉眼可见的提升与改进，颜值可以很高
 + Vim：终端修改文件必备，偶尔看看文件，或者远程通过ssh使用Vim写写代码，但是用的不是很痛快，终究还是被PyCharm这样的IDE惯坏了
++ TeXmacs：一款对于数学编辑极其方便的工具，从FTP下载顺道可以下载对应的guile（a Scheme implementation）：ftp://ftp.texmacs.org/TeXmacs/tmftp/Linux/
    
 ### IDE
 
