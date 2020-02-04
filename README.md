@@ -68,6 +68,10 @@
 + 多任务深度学习的三个经验教训：https://www.leiphone.com/news/201902/SlFB1OlWd6U8ubJj.html
 + Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics：https://arxiv.org/pdf/1705.07115.pdf
 
+## 医学图像分割相关资料
+
++ awesome-gan-for-medical-imaging: https://github.com/xinario/awesome-gan-for-medical-imaging
+
 ## 常用工具
 
 ### Python
