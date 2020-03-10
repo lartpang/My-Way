@@ -32,13 +32,6 @@
 + zouxy09博客原创性博文导航：https://blog.csdn.net/zouxy09/article/details/14222605
 + L1和L2范数：http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
 + DeepLearning ON GPU：https://deeplearningongpu.readthedocs.io/en/latest/
-+ CNN可视化：
-    - Ways for Visualizing Convolutional Networks：https://buptldy.github.io/2016/09/25/2016-09-25-cnn_vis/
-    - CNN-Visualization：https://github.com/scutan90/CNN-Visualization
-    - 谷歌的新CNN特征可视化方法，构造出一个华丽繁复的新世界：https://www.leiphone.com/news/201711/aNw8ZjqMuqvygzlz.html
-    - How to visualize convolutional features in 40 lines of code：https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
-        + 中文翻译：https://www.jishuwen.com/d/2Lik
-    - 【深度学习系列】CNN模型的可视化：https://www.cnblogs.com/charlotte77/p/8343700.html
 + ML Records in 1110 Lab of BUPT：https://github.com/wmn7/ML_Practice
 + 各种计算机领域资料的合集：https://github.com/ty4z2008/Qix
 * 如何理解深度学习分布式训练中的large batch size与learning rate的关系？ - 谭旭的回答 - 知乎：https://www.zhihu.com/question/64134994/answer/216895968
@@ -68,10 +61,6 @@
 + 多任务深度学习的三个经验教训：https://www.leiphone.com/news/201902/SlFB1OlWd6U8ubJj.html
 + Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics：https://arxiv.org/pdf/1705.07115.pdf
 
-## 医学图像分割相关资料
-
-+ awesome-gan-for-medical-imaging: https://github.com/xinario/awesome-gan-for-medical-imaging
-
 ## 常用工具
 
 ### Python
@@ -83,9 +72,15 @@
 + 统计模型运算量和参数量的pytorch-OpCounter：https://github.com/Lyken17/pytorch-OpCounter
 + 一些PyTorch的技巧，但是似乎有些旧了：https://github.com/kevinzakka/pytorch-goodies
 + PyTorch Autograd：Understanding the heart of PyTorch’s magic：https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95
-+ CNN特征可视化：
++ CNN可视化：
     - https://github.com/MisaOgura/flashtorch
     - https://github.com/utkuozbulak/pytorch-cnn-visualizations
+    - Ways for Visualizing Convolutional Networks：https://buptldy.github.io/2016/09/25/2016-09-25-cnn_vis/
+    - CNN-Visualization：https://github.com/scutan90/CNN-Visualization
+    - 谷歌的新CNN特征可视化方法，构造出一个华丽繁复的新世界：https://www.leiphone.com/news/201711/aNw8ZjqMuqvygzlz.html
+    - How to visualize convolutional features in 40 lines of code：https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
+        + 中文翻译：https://www.jishuwen.com/d/2Lik
+    - 【深度学习系列】CNN模型的可视化：https://www.cnblogs.com/charlotte77/p/8343700.html
 + 高级封装：
     - https://github.com/blue-season/pywarm
 + 训练提速：
@@ -132,11 +127,6 @@
 ### ML&DL
 
 + 吴恩达新书: http://nooverfit.com/wp/wp-content/uploads/2018/10/Ng-MLY01-12.pdf
-
-### Coding
-
-+ GO: 
-    - https://github.com/chai2010/advanced-go-programming-book
 
 ## 文字编辑
 
