@@ -6,7 +6,7 @@
 
 由于几篇文章写的内容对于本人而言非常有用，但是为了防止原作“消失”的情况，这里将其进行了打印，保存成了pdf，存放在这里的`GoodArticle`文件夹中，如果原作者觉得不妥，请联系我，我会删除。保护版权，人人有责！
 
-* 书籍
+* 文章
     * 迁移学习小册子-王晋东: https://zhuanlan.zhihu.com/p/35352154
     * Bilateral Filtering: Theory and Applications: https://www.researchgate.net/publication/220427978_Bilateral_Filtering_Theory_and_Applications
 * 文章
