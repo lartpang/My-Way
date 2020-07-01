@@ -35,6 +35,8 @@
 
 + L1和L2范数：http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
 + 想要算一算Wasserstein距离？这里有一份PyTorch实战：https://www.jiqizhixin.com/articles/19031102
++ Gumbel-Softmax Trick（将不可数的argmax采样）和Gumbel分布：https://www.cnblogs.com/initial-h/p/9468974.html
+> Gumbel Trick 是一种从离散分布取样的方法，它的形式可以允许我们定义一种可微分的，离散分布的近似取样，这种取样方式不像「干脆以各类概率值的概率向量替代取样」这么粗糙，也不像直接取样一样不可导（因此没办法应对可能的 bp ）。如何理解Gumbel-Max trick？ - 曹恭泽的回答 - 知乎 <https://www.zhihu.com/question/62631725/answer/201338234>
 
 ### 弱监督、半监督以及蒸馏等
 
