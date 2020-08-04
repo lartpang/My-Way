@@ -93,6 +93,7 @@
 * Go 高级教程: https://github.com/chai2010/advanced-go-programming-book
 * dylanaraps/pure-bash-bible：https://github.com/dylanaraps/pure-bash-bible
 * 手把手撕LeetCode题目，扒各种算法套路的裤子：https://github.com/labuladong/fucking-algorithm
+* 小浩算法是我在疫情期间完成的一部图解算法题典！ 目前共完成 140+ 道高频面试算法题目，总计 30w 字，全部采用漫画图解的方式，简单易懂，适合初中级读者：https://github.com/geekxh/hello-algorithm
 
 ### 线性代数
 
