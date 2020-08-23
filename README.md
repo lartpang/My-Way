@@ -95,6 +95,7 @@
 * 手把手撕LeetCode题目，扒各种算法套路的裤子：https://github.com/labuladong/fucking-algorithm
 * 小浩算法是我在疫情期间完成的一部图解算法题典！ 目前共完成 140+ 道高频面试算法题目，总计 30w 字，全部采用漫画图解的方式，简单易懂，适合初中级读者：https://github.com/geekxh/hello-algorithm
 * Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
+* :stars: 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：https://github.com/piglei/one-python-craftsman
 
 ### 线性代数
 
