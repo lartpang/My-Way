@@ -76,35 +76,35 @@
 ### Coding
 
 * 综合
-      * 设计数据密集型应用 - 中文翻译: https://github.com/Vonng/ddia
-      * Computer Science from the Bottom Up: https://www.bottomupcs.com/index.xhtml
-      * Mining Social Media: http://socialdata.site/
-      * 重新审视《GOTO 语句被认为有害》: https://www.emon100.me/goto-translation/
+   * 设计数据密集型应用 - 中文翻译: https://github.com/Vonng/ddia
+   * Computer Science from the Bottom Up: https://www.bottomupcs.com/index.xhtml
+   * Mining Social Media: http://socialdata.site/
+   * 重新审视《GOTO 语句被认为有害》: https://www.emon100.me/goto-translation/
 * Editor
-      * 笨方法学Vimscript: https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way
-      * VSCode: https://geek-docs.com/vscode
+   * 笨方法学Vimscript: https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way
+   * VSCode: https://geek-docs.com/vscode
 * Lisp
-      * build-your-own-lisp: https://ksco.gitbooks.io/build-your-own-lisp/content/
+   * build-your-own-lisp: https://ksco.gitbooks.io/build-your-own-lisp/content/
 * Rust
-      * Rust 简明教程: https://geektutu.com/post/quick-rust.html
+   * Rust 简明教程: https://geektutu.com/post/quick-rust.html
 * Python
-      * Python 最佳实践指南 2018: https://learnku.com/docs/python-guide/2018
-      * Python最佳实践指南！: https://pythonguidecn.readthedocs.io/zh/latest/index.html
-      * What the f*ck Python! 🐍(中文翻译): https://github.com/leisurelicht/wtfpython-cn
-      * Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
-      * :stars: 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：https://github.com/piglei/one-python-craftsman
+   * Python 最佳实践指南 2018: https://learnku.com/docs/python-guide/2018
+   * Python最佳实践指南！: https://pythonguidecn.readthedocs.io/zh/latest/index.html
+   * What the f*ck Python! 🐍(中文翻译): https://github.com/leisurelicht/wtfpython-cn
+   * Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
+   * :stars: 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：https://github.com/piglei/one-python-craftsman
 * Golang:
-      * Building a BitTorrent client from the ground up in Go: https://blog.jse.li/posts/torrent/
-      * Go 101: https://go101.org/article/101.html
-      * Go 高级教程: https://github.com/chai2010/advanced-go-programming-book
-      * 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)：https://github.com/chai2010/go-ast-book
-      * 7days-golang: https://github.com/geektutu/7days-golang
-      * Go 语言简明教程: https://geektutu.com/post/quick-golang.html
+   * Building a BitTorrent client from the ground up in Go: https://blog.jse.li/posts/torrent/
+   * Go 101: https://go101.org/article/101.html
+   * Go 高级教程: https://github.com/chai2010/advanced-go-programming-book
+   * 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)：https://github.com/chai2010/go-ast-book
+   * 7days-golang: https://github.com/geektutu/7days-golang
+   * Go 语言简明教程: https://geektutu.com/post/quick-golang.html
 * Bash
-      * dylanaraps/pure-bash-bible：https://github.com/dylanaraps/pure-bash-bible
+   * dylanaraps/pure-bash-bible：https://github.com/dylanaraps/pure-bash-bible
 * Algorithm
-      * 手把手撕LeetCode题目，扒各种算法套路的裤子：https://github.com/labuladong/fucking-algorithm
-      * 小浩算法是我在疫情期间完成的一部图解算法题典！ 目前共完成 140+ 道高频面试算法题目，总计 30w 字，全部采用漫画图解的方式，简单易懂，适合初中级读者：https://github.com/geekxh/hello-algorithm
+   * 手把手撕LeetCode题目，扒各种算法套路的裤子：https://github.com/labuladong/fucking-algorithm
+   * 小浩算法是我在疫情期间完成的一部图解算法题典！ 目前共完成 140+ 道高频面试算法题目，总计 30w 字，全部采用漫画图解的方式，简单易懂，适合初中级读者：https://github.com/geekxh/hello-algorithm
 
 ### 线性代数
 
