@@ -30,6 +30,9 @@
 + ML Records in 1110 Lab of BUPT：https://github.com/wmn7/ML_Practice
 + 各种计算机领域资料的合集：https://github.com/ty4z2008/Qix
 * 如何理解深度学习分布式训练中的large batch size与learning rate的关系？ - 谭旭的回答 - 知乎：https://www.zhihu.com/question/64134994/answer/216895968
++ 数据增强
+  * This is a list of awesome methods about data augmentation.: https://github.com/CrazyVertigo/awesome-data-augmentation
+  * A collection of awesome things about mixed sample data augmentation: https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation
 
 ### 数学
 
