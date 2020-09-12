@@ -155,6 +155,7 @@
     - 简单两步加速PyTorch里的Dataloader - 巽二的文章 - 知乎：https://zhuanlan.zhihu.com/p/68191407
     - 给训练踩踩油门——Pytorch加速数据读取 - MrTian的文章 - 知乎：https://zhuanlan.zhihu.com/p/80695364
     - https://www.cnblogs.com/king-lps/p/10936374.html
++ Image Test Time Augmentation with PyTorch!: https://github.com/qubvel/ttach
 
 ### TF
 
