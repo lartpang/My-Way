@@ -96,6 +96,7 @@
    * What the f*ck Python! 🐍(中文翻译): https://github.com/leisurelicht/wtfpython-cn
    * Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
    * :stars: 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：https://github.com/piglei/one-python-craftsman
+   * :stars: Comprehensive Python Cheatsheet: <https://github.com/gto76/python-cheatsheet>
 * Golang:
    * Building a BitTorrent client from the ground up in Go: https://blog.jse.li/posts/torrent/
    * Go 101: https://go101.org/article/101.html
