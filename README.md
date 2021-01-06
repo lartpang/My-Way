@@ -66,6 +66,7 @@
 * Awesome Database Learning: https://github.com/pingcap/awesome-database-learning
 * ppwwyyxx/GroupNorm-reproduce: https://github.com/ppwwyyxx/GroupNorm-reproduce
 * awesome-gan-for-medical-imaging: https://github.com/xinario/awesome-gan-for-medical-imaging
+* 自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习: https://github.com/1165048017/BlogLearning
 
 ### 行人重识别（ReID）
 
@@ -83,6 +84,7 @@
    * Computer Science from the Bottom Up: https://www.bottomupcs.com/index.xhtml
    * Mining Social Media: http://socialdata.site/
    * 重新审视《GOTO 语句被认为有害》: https://www.emon100.me/goto-translation/
+   * GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！Resources: <https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts>
 * Editor
    * 笨方法学Vimscript: https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way
    * VSCode: https://geek-docs.com/vscode
