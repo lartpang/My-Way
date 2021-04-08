@@ -1,5 +1,7 @@
 # My Collection of Repos
 
+**NOTE**: 后续更新可见<https://www.yuque.com/lart/htsg95>，在语雀上写文档还是容易些。
+
 ![image](https://user-images.githubusercontent.com/26847524/68121367-8ffa9800-ff42-11e9-80cd-38aeb860bb98.png)
 
 ## 声明
